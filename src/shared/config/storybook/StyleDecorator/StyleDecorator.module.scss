@@ -1,0 +1,15 @@
+.min-height {
+    min-height: 100px;
+}
+
+.padding {
+    padding: 20px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
